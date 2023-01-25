@@ -5,6 +5,7 @@ I started my journey of bioinformatics
 # DAY ONE
 **Installation of tools**
 Installation of gitbash
+
 **R studio**
 Inrtoduction to shells
 # DAY TWO
